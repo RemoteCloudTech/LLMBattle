@@ -1,4 +1,7 @@
-# LLMBattle
+# AutoBlackJack
+Repo sets up LLM with copy paste image support on left side, and stake.us on right side. It asks the best response, uses OCR, associates that response with an action and performs the action on the right.
+
+# FiniteLLMBattle
 This repository is thrown together quickly with grok. It pits two chats against eachother, uses OCR currently for response interpretation, uses pyautogui for mouse click and text input.
 
 # requirements
